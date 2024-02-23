@@ -1,4 +1,4 @@
-module protos
+module pgithub.com/fdanis/protos
 
 go 1.21.6
 
